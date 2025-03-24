@@ -1,0 +1,19 @@
+header{
+    background-color: black;
+}
+
+nav img{
+    width: 150px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav a{
+    font-size: large;
+    color: white;
+}
